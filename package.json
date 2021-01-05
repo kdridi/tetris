@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kdridi/dante#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "execa": "^4.0.0",
     "nodejs-nodemailer-outlook": "^1.2.3",
     "progress": "^2.0.3"
